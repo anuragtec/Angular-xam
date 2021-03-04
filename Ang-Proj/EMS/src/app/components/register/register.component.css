@@ -1,0 +1,30 @@
+.regHead{
+    
+    background-color: rgb(235, 230, 247);
+    height: 5rem;
+    text-align: center;
+    color: rgb(43, 37, 37);
+
+    
+}
+
+.boxStyle{
+    width: 50%;
+}
+
+.card-body{
+    box-sizing: border-box;
+    padding: 4rem;
+    line-height: 3rem;
+    background-color: rgb(154, 224, 186);
+    
+}
+
+.reg{
+    background-color: rgb(70, 223, 121);
+}
+
+button{
+    margin-top: 2rem;
+    width: 100%;
+}
